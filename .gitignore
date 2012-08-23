@@ -1,0 +1,5 @@
+node_modules/
+<<<<<<< HEAD
+*.db
+=======
+>>>>>>> 644ca8a... adding .gitignore
